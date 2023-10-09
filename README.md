@@ -33,8 +33,8 @@ Welcome to the jewelries E-Commerce Landing Page website. This project help you 
 
 ### Links
 
-- Source Code: [github](https://www.HirutAssefa.io/Jewelries-Landing-Page-Website)
-- Live Site URL: [Live Demo](https://Jewelries-Landing-Page-Website.netlify.app/)
+- Source Code: [github]([https://www.HirutAssefa.io/Jewelries-Landing-Page-Website](https://github.com/HirutAssefa/Jewlery-landing-page-website))
+- Live Demo URL: ([Jewlery-landing-page-website](https://jewlery-landing-page-website.netlify.app/))
 
 ### Website Teach You
 
