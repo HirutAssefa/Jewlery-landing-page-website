@@ -24,7 +24,7 @@ Welcome to the jewelries E-Commerce Landing Page website. This project help you 
 
 ## Overview
 
-![img](/design/desktopdesign.JPG.png)
+![img](/design/desktopdesign.JPG)
 
 <!-- ### Screenshot
 
